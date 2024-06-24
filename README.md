@@ -43,7 +43,7 @@
   <tr>
     <td><img src="https://drive.google.com/uc?export=view&id=1Rv18O5Jifsg75MixzDMXAGb4N6eiDugu" 
           width=500)" 
-          width=500/></td>[
+          width=500/></td>
     <td> <img src="https://drive.google.com/uc?export=view&id=1JdWFJzUKeTNiQzfBM6T6jQrDYzTTcaTe" 
            width=500/></td>
   </tr>
